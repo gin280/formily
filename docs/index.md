@@ -8,7 +8,7 @@ hero:
     - text: Introduction
       link: /guide
     - text: Quick start
-      link: /guide/quick-start
+      link: /guide/quick-start  
 features:
   - icon: https://img.alicdn.com/imgextra/i2/O1CN016i72sH1c5wh1kyy9U_!!6000000003550-55-tps-800-800.svg
     title: Easier to Use
